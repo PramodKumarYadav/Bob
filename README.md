@@ -56,3 +56,7 @@ This project is the playground to learn all good things about automation. The ap
     - Triggering  your tests with each Pull request
     - Triggering your tests on a schedule.
     - Manually triggering the builds if the need maybe.
+
+## Setup
+For new users, if you want to clone this project to your local, do this.
+``` git clone https://github.com/PramodKumarYadav/Bob.git```
